@@ -96,7 +96,7 @@ const App = () => {
                 </Row>
                 <Row className="body table-style">
                     <Col sm={6}>
-                        <h4>Table information</h4>
+                        <h4>Information Table</h4>
                         <DataTable 
                             pagination
                             highlightOnHover
@@ -105,7 +105,7 @@ const App = () => {
                         />
                     </Col>
                     <Col sm={6}>
-                        <h4>Table duplicates</h4>
+                        <h4>Duplicates Table</h4>
                         <DataTable 
                             theme="solarized"
                             pagination
