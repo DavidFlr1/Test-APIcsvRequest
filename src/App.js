@@ -97,21 +97,12 @@ const App = () => {
                 <Row className="body table-style">
                     <Col sm={6}>
                         <h4>Information Table</h4>
-                        <DataTable 
-                            pagination
-                            highlightOnHover
-                            columns={columns}
-                            data={data}
+                        <DataTable pagination highlightOnHover columns={columns} data={data}
                         />
                     </Col>
                     <Col sm={6}>
                         <h4>Duplicates Table</h4>
-                        <DataTable 
-                            theme="solarized"
-                            pagination
-                            highlightOnHover
-                            columns={columns}
-                            data={duplicate}
+                        <DataTable theme="solarized" pagination highlightOnHover columns={columns} data={duplicate}
                         />
                     </Col>
                 </Row>
