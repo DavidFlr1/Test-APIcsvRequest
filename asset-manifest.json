@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test-APIcsvRequest/static/css/main.c999b28b.chunk.css",
+    "main.js": "/Test-APIcsvRequest/static/js/main.8a888fca.chunk.js",
+    "main.js.map": "/Test-APIcsvRequest/static/js/main.8a888fca.chunk.js.map",
+    "runtime-main.js": "/Test-APIcsvRequest/static/js/runtime-main.e3f3090b.js",
+    "runtime-main.js.map": "/Test-APIcsvRequest/static/js/runtime-main.e3f3090b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Test-APIcsvRequest/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f490699d.chunk.js": "/Test-APIcsvRequest/static/js/2.f490699d.chunk.js",
+    "static/js/2.f490699d.chunk.js.map": "/Test-APIcsvRequest/static/js/2.f490699d.chunk.js.map",
+    "index.html": "/Test-APIcsvRequest/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Test-APIcsvRequest/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c999b28b.chunk.css.map": "/Test-APIcsvRequest/static/css/main.c999b28b.chunk.css.map",
+    "static/js/2.f490699d.chunk.js.LICENSE.txt": "/Test-APIcsvRequest/static/js/2.f490699d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f3090b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f490699d.chunk.js",
+    "static/css/main.c999b28b.chunk.css",
+    "static/js/main.8a888fca.chunk.js"
+  ]
+}
